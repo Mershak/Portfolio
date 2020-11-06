@@ -8,4 +8,5 @@ There are 6 projects in total:
 5) Five twelve, a version of the popular "2048" game.
 6) Duck Machine, a fully fledged mini machine that reads binary instructions, assembles, compiles and uses cpu to calculate results of operations.
 
+However, these programs will not work on their own, and are done only to be checked by a test file by the instructor.
 All the source files were provided by my CIS 211 instructor from Spring 2020, Michal Young.
