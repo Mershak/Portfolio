@@ -1,1 +1,1 @@
-An implementation of Queue data structure.
+An implementation of Queue data structure with a linked list.
